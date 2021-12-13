@@ -1,3 +1,8 @@
+body{
+  background-color: yellow;
+}
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +41,17 @@
     transform: rotate(360deg);
   }
 }
+
+.I{
+  background-color: green;
+}
+
+.D{
+  background-color: red;
+}
+
+.R{
+  background-color: yellow;
+}
+
+

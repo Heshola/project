@@ -1,24 +1,14 @@
 import './App.css';
-import Section1 from './Section1';
-import King from './King'
-import Our from './Our';
-import Grid from './Grid';
-import Last from './Last'
+import Home from './Home';
+import Section from './Section';
+import Byn from './Byn'
 function App() {
   return (
-    <div >
-      
-         <Section1></Section1>
-         <King></King>
-         <Our></Our>
-         <Grid></Grid>
-         <Last></Last>
-    
-      
-     
+    <div className="App">
+         <Section />
+         <Home />
+         <Byn />
     </div>
-  
-
   );
 }
 
